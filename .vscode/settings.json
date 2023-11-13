@@ -1,0 +1,18 @@
+
+
+
+
+    {
+        // Is git enabled
+        "git.enabled": true,
+    
+        // Path to the git executable
+        "git.path": "C:\\Git\bin\\get.exe",
+        "launch": {
+
+            "configurations": [],
+            "compounds": []
+        },
+        "cmake.sourceDirectory": "${workspaceFolder}/linux",
+        "C_Cpp.default.configurationProvider": "BartmanAbyss.amiga-debug"
+    }
